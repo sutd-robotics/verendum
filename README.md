@@ -2,7 +2,7 @@
 List of SOAR robotic projects 🤖
 
 ## On-going
-- モモボット 1.1
+- MOMOBot 1.1
 - Doggo
 - SAUVC 2019/20
 - Jessica Arm
