@@ -2,10 +2,27 @@
 List of SOAR robotic projects 🤖
 
 ## On-going
+### MOMOBot 1.1
+MOMObot (MOdular MObile Robot), upgraded with more components!
 - MOMOBot 1.1
-- Doggo
-- SAUVC 2019/20
-- Jessica Arm
+- [Gazebo Model](https://github.com/1487quantum/momobot_gazebo): Tested on Gazebo9, the model could be used to simulate MOMOBot!
+- NeoPixel Display
+- WebApp Interface
+
+### SUTDoggo 🐕
+An adaptation of the Stanford Doggo Project for SUTD SOAR.
+
+[https://github.com/sutd-robotics/SUTDoggo](https://github.com/sutd-robotics/SUTDoggo)
+### Jessica Arm
+JESSICA is a robot arm that can automatically serve coffee upon activation. We plan to add a manual function, where users can control JESSICA with an EMG myosensor armband. ☕
+
+[https://github.com/sutd-robotics/JESSICA-SOAR](https://github.com/sutd-robotics/JESSICA-SOAR)
+
+### SAUVC 2019/20
+Challenges participant teams to build an AUV which can perform AUV navigation, visual identification, acoustic localization and robotic manipulation.
+
+[bubblesjr](https://github.com/sutd-robotics/bubblesjr)
+
 
 ## Completed/Archived
 ### Linobot
