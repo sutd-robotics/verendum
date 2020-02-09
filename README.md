@@ -9,20 +9,17 @@ MOMObot (MOdular MObile Robot), upgraded with more components!
 - NeoPixel Display
 - WebApp Interface
 
-### SUTDoggo 🐕
+### [SUTDoggo](https://github.com/sutd-robotics/SUTDoggo) 🐕
 An adaptation of the Stanford Doggo Project for SUTD SOAR.
 
-[https://github.com/sutd-robotics/SUTDoggo](https://github.com/sutd-robotics/SUTDoggo)
-### Jessica Arm
+### [Jessica Arm](https://github.com/sutd-robotics/JESSICA-SOAR)
 JESSICA is a robot arm that can automatically serve coffee upon activation. We plan to add a manual function, where users can control JESSICA with an EMG myosensor armband. ☕
 
-[https://github.com/sutd-robotics/JESSICA-SOAR](https://github.com/sutd-robotics/JESSICA-SOAR)
-
-### SAUVC 2019/20
+### SAUVC 2019/20: [bubblesjr](https://github.com/sutd-robotics/bubblesjr)
 Challenges participant teams to build an AUV which can perform AUV navigation, visual identification, acoustic localization and robotic manipulation.
 
-[bubblesjr](https://github.com/sutd-robotics/bubblesjr)
-
+### [Machine Learning/AI](https://github.com/sutd-robotics/SOAR-ML)
+Exploring MNIST digit recognition via Tensorflow & Keras, and to create a gesture detctor ROS package using the YOLO3 model.
 
 ## Completed/Archived
 ### Linobot
