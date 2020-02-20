@@ -4,7 +4,8 @@ List of SOAR robotic projects 🤖
 ## On-going
 ### MOMOBot 1.1
 MOMObot (MOdular MObile Robot), upgraded with more components!
-- MOMOBot 1.1
+- MOMOBot 1.1 Workspace
+- [Waypointgen](https://github.com/1487quantum/waypointgen): A waypoint generator (using InteractiveMarkers in Rviz) and a waypoint server for waypoint playback!
 - [Gazebo Model](https://github.com/1487quantum/momobot_gazebo): Tested on Gazebo9, the model could be used to simulate MOMOBot!
 - NeoPixel Display
 - WebApp Interface
