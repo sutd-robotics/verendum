@@ -1,10 +1,14 @@
 # Verendum
 List of SOAR robotic projects 🤖
-![Logo](assets/soar.png)
+
+<img src="assets/soar.png" width="300px"/>
+
+> **Reference & Extra Resources**
+> [Here are some references and resources you may find useful!](resources.md)
 
 ## On-going
 ### MOMOBot 1.1
-![momo_logo](assets/MOMO_logo_full.png)
+<img src="assets/MOMO_logo_full.png" width="400px"/>
 
 MOMObot (MOdular MObile Robot), upgraded with more components!
 
@@ -56,9 +60,6 @@ MOMObot (MOdular MObile Robot) is a ROS enabled autonomous ground vehicle for se
 Challenges participant teams to build an AUV which can perform AUV navigation, visual identification, acoustic localization and robotic manipulation.
 - [2018/19 bubblesjr](https://github.com/sutd-robotics/bubblesjr)
 
-## MISC Resources
-- [Coding Notes](https://github.com/methylDragon/coding-notes)
-- [Markdown Table of Content (ToC) Adder](https://github.com/methylDragon/markdown-linked-toc-adder): Add a linked Table of Contents to any GitHub flavoured Markdown file!
 
 
 
