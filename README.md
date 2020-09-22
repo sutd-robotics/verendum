@@ -47,7 +47,34 @@ Challenges participant teams to build an AUV which can perform AUV navigation, v
 Exploring MNIST digit recognition via Tensorflow & Keras, and to create a gesture detctor ROS package using the YOLO3 model.
 
 ## Completed/Archived
+### Teleoperation of robot via EEG headset 🧠
+
+![](assets/eeg-epoc.png)
+
+Controlling the robot wirelessly via Electroencephalography (aka `Brain Wave`) with the Emotiv Cortex2. 
+
+> Below are the relevant libraries/pacakges used.
+
+**teleop_twist_brain_bridge**
+
+Brain Teleoperation rosbridge Nodes for ROS!
+
+[https://github.com/methylDragon/teleop_twist_brain_bridge](https://github.com/methylDragon/teleop_twist_brain_bridge)
+
+**Emotiv Cortex2 Python Client**
+
+Unofficial Python client for the Emotiv EEG Cortex 2 API.
+
+[https://github.com/methylDragon/emotiv-cortex2-python-client](https://github.com/methylDragon/emotiv-cortex2-python-client)
+
+**Demo**
+
+![](assets/eeg_demo.gif)
+
+
+
 ### Linobot
+
 Linorobot is a suite of Open Source ROS compatible robots that aims to provide students, developers, and researchers a low-cost platform in creating new exciting applications on top of ROS.
 - [2019 Edition](https://github.com/sutd-robotics/soar-linorobot)
 - [2018 Edition](https://github.com/sutd-robotics/linorobot)
