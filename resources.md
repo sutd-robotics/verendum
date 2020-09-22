@@ -35,6 +35,18 @@ Here are some compilation of the various software, packages and tools to assist 
 ## Learning
 
 - [Coding Notes](https://github.com/methylDragon/coding-notes)
+- Electronics tutorials: [https://www.electronics-tutorials.ws](https://www.electronics-tutorials.ws/)
+
+### Arduino Tutorials / Guide
+- [Arduino (Company)](https://www.arduino.cc/en/Tutorial/HomePage)
+- [Adafruit](https://learn.adafruit.com/)
+- [Sparkfun](https://www.sparkfun.com/tutorials/)
+- [Cyan Infinite](https://cyaninfinite.com/)
+
+### MISC
+
+- Project Ideas: [Instructables](https://www.instructables.com/)
+
 
 
 
@@ -42,13 +54,15 @@ Here are some compilation of the various software, packages and tools to assist 
 
 - [Gazebo](http://gazebosim.org/): Open source robotics simulator.
 
+- [Webot](https://github.com/cyberbotics/webots): Another open source robot simulator, became open sourced in 2018.
+
 - [AirSim](https://github.com/Microsoft/AirSim): AirSim is a simulator for drones, cars and more, built on [Unreal Engine](https://www.unrealengine.com/) (with an experimental [Unity](https://unity3d.com/) release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
 
 - [DroneSimLab](https://github.com/orig74/DroneSimLab): A multi simulation which include multiple simulation engines.
+
 - [Carla](https://github.com/carla-simulator/carla): An open-source simulator for autonomous driving research. 
 
 - [ros-sharp](https://github.com/siemens/ros-sharp): A set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity.
-
 
 
 ## Robotic Operating System (ROS)
